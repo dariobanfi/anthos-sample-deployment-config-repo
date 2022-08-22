@@ -24,7 +24,6 @@ spec:
     metadata:
       labels:
         app: balancereader
-        test: test
     spec:
       serviceAccountName: default
       terminationGracePeriodSeconds: 5
